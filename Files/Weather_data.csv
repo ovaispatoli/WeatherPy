@@ -1,0 +1,3 @@
+,City,Country,Date,Time,Latitude,Longitude,Max Temperature (°F),Humidity (%),Cloudiness (%),Wind Speed (mph)
+0,Vung Tau,VN,2019-03-19,13:14 PM (US-CST),7.782241241800719,108.70496495507393,81.41,96,24,14.81
+1,Presidencia Roque Saenz Pena,AR,2019-03-19,13:14 PM (US-CST),-25.80674391119814,-61.62498246493357,84.2,81,56,6.64
